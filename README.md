@@ -30,7 +30,7 @@ Project | Aras
 1. Backup your database and store the BAK file in a safe place.
 2. Open up the Aras Package Import tool.
 3. Enter your login credentials and click **Login**
-    * _Note: You must login as root for the package import to succeed!_
+    * _Note: You must log in as root for the package import to succeed!_
 4. Enter the package name in the TargetRelease field.
     * Optional: Enter a description in the Description field.
 5. Enter the path to your local `imports.mf` file in the Manifest File field.
@@ -47,7 +47,7 @@ Project | Aras
 1. Log in to Aras as admin.
 2. Navigate to **Administration > ItemTypes** in the TOC and search for the ItemType you would like to add mouseover tips to.
 3. Open the ItemType for editing.
-4. For each property you want to have a mouseover tip, enter the tip text in the "Help Text" field.
+4. For each property, you want to have a mouseover tip, enter the tip text in the "Help Text" field.
 5. Save the ItemType.
 
 ### Add the form event
