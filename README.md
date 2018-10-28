@@ -47,7 +47,7 @@ Project | Aras
 1. Log in to Aras as admin.
 2. Navigate to **Administration > ItemTypes** in the TOC and search for the ItemType you would like to add mouseover tips to.
 3. Open the ItemType for editing.
-4. For each property you want to have a mouseover tip, enter the tip text in the "Help Text" field.
+4. For each property, you want to have a mouseover tip, enter the tip text in the "Help Text" field.
 5. Save the ItemType.
 
 ### Add the form event
@@ -79,4 +79,3 @@ Select **Action > ItemType Glossary Report**.
 ## Credits
 
 Created by Darryl Poore.
-
